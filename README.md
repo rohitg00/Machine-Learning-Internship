@@ -1,5 +1,14 @@
 # Machine-Learning-Internship
 
-@Author Rohit Ghumare
+# Author 
+[**Rohit Ghumare**](https://github.com/rohitg00)
 
-# Web scrapping done using python libraries like Selenium, Beautiful soup, Worldcloud, Requests and many other for representing image view or Excell sheet of output of scraping done for amazon products in order based on good reviews, low price.
+# Web scrapping 
+- Webscrapping done using some awesome python libraries like:
+```
+selenium
+Beautifulsoup
+numpy
+```
+- Good words and Negative words are provided by dataset as csv files.
+- Webscrapping done on amazon website for good reviews using NLP
